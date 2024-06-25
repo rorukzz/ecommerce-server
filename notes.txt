@@ -1,0 +1,26 @@
+ecommerce-backend/
+├── config/
+│   ├── db.js
+├── controllers/
+│   ├── productController.js
+│   ├── userController.js
+│   ├── shippingController.js
+├── models/
+│   ├── Product.js
+│   ├── User.js
+│   ├── ShippingDetails.js
+├── routes/
+│   ├── productRoutes.js
+│   ├── userRoutes.js
+│   ├── shippingRoutes.js
+├── middleware/
+│   ├── auth.js
+├── utils/
+│   ├── errorHandler.js
+├── .env
+├── .gitignore
+├── server.js
+├── package.json
+├── package-lock.json
+
+^^Structure
